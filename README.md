@@ -1,2 +1,2 @@
 # Movie-Ratings-Project
-This project helps you collect, manage, and analyze movie ratings. It includes tools to process data and explore trends in movie reviews.
+This project analyzes movie ratings using data features like action, comedy, and drama. It uses linear regression to predict movie ratings based on these features. The repository includes data collection and python code for this project. Perfect for learning how movie genres impact ratings or exploring regression techniques.
